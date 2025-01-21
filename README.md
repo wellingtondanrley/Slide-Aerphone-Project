@@ -4,4 +4,4 @@
 
 Up：2016-12
 
-![](https://github.com/wellingtondanrley/Slide-Aerphone-Project/img/Screen.png)
+![](https://github.com/wellingtondanrley/Slide-Aerphone-Project/Screen.png)
